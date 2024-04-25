@@ -1,0 +1,5 @@
+SIMULACIÓ DEL NANOTUB: He canviat el número de m a m=5, com n=m, tindré un nanotub "Armchair". A més, li he donat una longitud de 7nm. Aquesta estructura té 580àtoms.
+
+SIMULACIÓ DE CRISTALLS: He fet servir com a material el "quartz-alpha" amb box dimension de x=3, y=3 i z=3. Aquesta estructura té 243àtoms.
+
+SIMULACIÓ DE MOLÈCULES:He selccionat la molècula de Indole. He seleccionat l'àtom d'hidrogen 9 i l'he substituit per un amino.
